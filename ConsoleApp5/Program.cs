@@ -82,7 +82,7 @@
         {
             foreach (Ingredient ingredient in ingredients)
             {
-                ingredient.Quantity /= 2;
+                ingredient.Quantity /= 4;
             }
         }
 
